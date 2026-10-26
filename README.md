@@ -1,0 +1,2 @@
+# Customer-Insights-Sales-Performance-Dashboard-for-a-Retail-Business
+An end-to-end retail analytics project featuring an interactive sales dashboard, sales forecasting, product demand prediction, and customer churn classification using Python, Pandas, Scikit-learn, and Plotly. Includes exploratory data analysis, product performance insights, and churn prediction using synthetically generated labels.
