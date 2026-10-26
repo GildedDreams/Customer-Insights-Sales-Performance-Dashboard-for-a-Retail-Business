@@ -1,0 +1,101 @@
+ORDERDATE,OrderID,CustomerID,CustomerName,CustomerSegment,Region,City,Country,ProductID,ProductName,Category,QUANTITYORDERED,PRICEEACH,SALES,EstimatedCost,EstimatedProfit,ProfitMargin,STATUS
+01-Mar-18,123100011,5011,Customer_5011,Consumer,North,Delhi,India,220101500003,Bluetooth Speaker,Electronics,2,2199.00,4398.00,3400.00,998.00,0.2269,Shipped
+04-Mar-18,123100012,5012,Customer_5012,Corporate,West,Mumbai,India,220101500008,Storage Box,Home,5,399.00,1995.00,1200.00,795.00,0.3985,Shipped
+08-Mar-18,123100013,5013,Customer_5013,Home Office,South,Bengaluru,India,220101500013,Jacket,Fashion,2,2499.00,4998.00,3600.00,1398.00,0.2797,Shipped
+11-Mar-18,123100014,5014,Customer_5014,Consumer,East,Kolkata,India,220101500018,Lipstick,Beauty,6,499.00,2994.00,1800.00,1194.00,0.3988,Pending
+15-Mar-18,123100015,5015,Customer_5015,Consumer,Central,Nagpur,India,220101500023,Protein Bar,Grocery,8,120.00,960.00,640.00,320.00,0.3333,Shipped
+18-Mar-18,123100016,5016,Customer_5016,Corporate,North,Delhi,India,220101500004,Power Bank,Electronics,3,1499.00,4497.00,3150.00,1347.00,0.2995,Shipped
+22-Mar-18,123100017,5017,Customer_5017,Home Office,West,Mumbai,India,220101500009,Vacuum Flask,Home,4,699.00,2796.00,1880.00,916.00,0.3276,Cancelled
+25-Mar-18,123100018,5018,Customer_5018,Consumer,South,Bengaluru,India,220101500014,T-Shirt,Fashion,5,799.00,3995.00,2500.00,1495.00,0.3742,Shipped
+29-Mar-18,123100019,5019,Customer_5019,Corporate,East,Kolkata,India,220101500019,Hair Dryer,Beauty,2,1899.00,3798.00,2750.00,1048.00,0.2759,Shipped
+02-Apr-18,123100020,5020,Customer_5020,Consumer,Central,Nagpur,India,220101500024,Coffee Jar,Grocery,3,450.00,1350.00,870.00,480.00,0.3556,Shipped
+05-Apr-18,123100021,5021,Customer_5021,Consumer,North,Delhi,India,220101500005,Phone Case,Electronics,7,299.00,2093.00,980.00,1113.00,0.5318,Shipped
+09-Apr-18,123100022,5022,Customer_5022,Corporate,West,Mumbai,India,220101500010,Wall Clock,Home,2,999.00,1998.00,1350.00,648.00,0.3243,Shipped
+12-Apr-18,123100023,5023,Customer_5023,Home Office,South,Bengaluru,India,220101500015,Sunglasses,Fashion,4,1599.00,6396.00,4600.00,1796.00,0.2808,Pending
+16-Apr-18,123100024,5024,Customer_5024,Consumer,East,Kolkata,India,220101500020,Skin Serum,Beauty,3,999.00,2997.00,1920.00,1077.00,0.3594,Shipped
+19-Apr-18,123100025,5025,Customer_5025,Consumer,Central,Nagpur,India,220101500025,Olive Oil,Grocery,6,650.00,3900.00,2760.00,1140.00,0.2923,Shipped
+23-Apr-18,123100026,5026,Customer_5026,Corporate,North,Delhi,India,220101500001,Wireless Earbuds,Electronics,5,1499.00,7495.00,5600.00,1895.00,0.2528,Shipped
+26-Apr-18,123100027,5027,Customer_5027,Home Office,West,Mumbai,India,220101500006,Mixer Grinder,Home,1,2599.00,2599.00,1900.00,699.00,0.2689,Shipped
+30-Apr-18,123100028,5028,Customer_5028,Consumer,South,Bengaluru,India,220101500011,Running Shoes,Fashion,2,2099.00,4198.00,3000.00,1198.00,0.2854,Cancelled
+03-May-18,123100029,5029,Customer_5029,Corporate,East,Kolkata,India,220101500016,Face Wash,Beauty,10,220.00,2200.00,1200.00,1000.00,0.4545,Shipped
+07-May-18,123100030,5030,Customer_5030,Consumer,Central,Nagpur,India,220101500021,Green Tea,Grocery,9,160.00,1440.00,900.00,540.00,0.3750,Shipped
+10-May-18,123100031,5031,Customer_5031,Consumer,North,Delhi,India,220101500002,Smart Watch,Electronics,1,3499.00,3499.00,2700.00,799.00,0.2284,Shipped
+14-May-18,123100032,5032,Customer_5032,Corporate,West,Mumbai,India,220101500007,LED Lamp,Home,6,550.00,3300.00,2100.00,1200.00,0.3636,Pending
+17-May-18,123100033,5033,Customer_5033,Home Office,South,Bengaluru,India,220101500012,Backpack,Fashion,3,1399.00,4197.00,2700.00,1497.00,0.3567,Shipped
+21-May-18,123100034,5034,Customer_5034,Consumer,East,Kolkata,India,220101500017,Perfume,Beauty,4,950.00,3800.00,2600.00,1200.00,0.3158,Shipped
+24-May-18,123100035,5035,Customer_5035,Corporate,Central,Nagpur,India,220101500022,Dry Fruits,Grocery,5,380.00,1900.00,1250.00,650.00,0.3421,Shipped
+28-May-18,123100036,5036,Customer_5036,Consumer,North,Delhi,India,220101500003,Bluetooth Speaker,Electronics,2,2299.00,4598.00,3450.00,1148.00,0.2497,Shipped
+31-May-18,123100037,5037,Customer_5037,Home Office,West,Mumbai,India,220101500008,Storage Box,Home,8,420.00,3360.00,2080.00,1280.00,0.3810,Cancelled
+04-Jun-18,123100038,5038,Customer_5038,Consumer,South,Bengaluru,India,220101500013,Jacket,Fashion,2,2599.00,5198.00,3850.00,1348.00,0.2593,Shipped
+07-Jun-18,123100039,5039,Customer_5039,Corporate,East,Kolkata,India,220101500018,Lipstick,Beauty,7,520.00,3640.00,2240.00,1400.00,0.3846,Shipped
+11-Jun-18,123100040,5040,Customer_5040,Consumer,Central,Nagpur,India,220101500023,Protein Bar,Grocery,12,125.00,1500.00,900.00,600.00,0.4000,Shipped
+14-Jun-18,123100041,5041,Customer_5041,Consumer,North,Delhi,India,220101500004,Power Bank,Electronics,4,1550.00,6200.00,4500.00,1700.00,0.2742,Pending
+18-Jun-18,123100042,5042,Customer_5042,Corporate,West,Mumbai,India,220101500009,Vacuum Flask,Home,3,720.00,2160.00,1440.00,720.00,0.3333,Shipped
+21-Jun-18,123100043,5043,Customer_5043,Home Office,South,Bengaluru,India,220101500014,T-Shirt,Fashion,6,850.00,5100.00,3300.00,1800.00,0.3529,Shipped
+25-Jun-18,123100044,5044,Customer_5044,Consumer,East,Kolkata,India,220101500019,Hair Dryer,Beauty,2,1949.00,3898.00,2800.00,1098.00,0.2817,Shipped
+28-Jun-18,123100045,5045,Customer_5045,Corporate,Central,Nagpur,India,220101500024,Coffee Jar,Grocery,4,470.00,1880.00,1180.00,700.00,0.3723,Shipped
+02-Jul-18,123100046,5046,Customer_5046,Consumer,North,Delhi,India,220101500005,Phone Case,Electronics,10,320.00,3200.00,1500.00,1700.00,0.5313,Shipped
+05-Jul-18,123100047,5047,Customer_5047,Corporate,West,Mumbai,India,220101500010,Wall Clock,Home,3,1049.00,3147.00,2100.00,1047.00,0.3327,Shipped
+09-Jul-18,123100048,5048,Customer_5048,Home Office,South,Bengaluru,India,220101500015,Sunglasses,Fashion,5,1649.00,8245.00,5900.00,2345.00,0.2844,Cancelled
+12-Jul-18,123100049,5049,Customer_5049,Consumer,East,Kolkata,India,220101500020,Skin Serum,Beauty,4,1050.00,4200.00,2750.00,1450.00,0.3452,Shipped
+16-Jul-18,123100050,5050,Customer_5050,Consumer,Central,Nagpur,India,220101500025,Olive Oil,Grocery,7,690.00,4830.00,3360.00,1470.00,0.3043,Shipped
+03-Apr-18,123100021,5021,Customer_5021,Consumer,North,Delhi,India,220101500005,USB Cable,Electronics,7,199.00,1393.00,980.00,413.00,0.2965,Shipped
+06-Apr-18,123100022,5022,Customer_5022,Corporate,West,Mumbai,India,220101500010,Wall Clock,Home,2,1099.00,2198.00,1560.00,638.00,0.2903,Shipped
+09-Apr-18,123100023,5023,Customer_5023,Home Office,South,Bengaluru,India,220101500015,Jeans,Fashion,3,1799.00,5397.00,4100.00,1297.00,0.2403,Shipped
+12-Apr-18,123100024,5024,Customer_5024,Consumer,East,Kolkata,India,220101500020,Shampoo,Beauty,4,249.00,996.00,620.00,376.00,0.3775,Pending
+16-Apr-18,123100025,5025,Customer_5025,Consumer,Central,Nagpur,India,220101500025,Biscuits,Grocery,10,60.00,600.00,360.00,240.00,0.4000,Shipped
+19-Apr-18,123100026,5026,Customer_5026,Corporate,North,Delhi,India,220101500001,Wireless Earbuds,Electronics,1,149.00,149.00,110.00,39.00,0.2617,Shipped
+23-Apr-18,123100027,5027,Customer_5027,Home Office,West,Mumbai,India,220101500006,Mixer Grinder,Home,1,2499.00,2499.00,1950.00,549.00,0.2197,Cancelled
+26-Apr-18,123100028,5028,Customer_5028,Consumer,South,Bengaluru,India,220101500011,Running Shoes,Fashion,2,1899.00,3798.00,2800.00,998.00,0.2628,Shipped
+30-Apr-18,123100029,5029,Customer_5029,Corporate,East,Kolkata,India,220101500016,Face Wash,Beauty,5,299.00,1495.00,950.00,545.00,0.3645,Shipped
+03-May-18,123100030,5030,Customer_5030,Consumer,Central,Nagpur,India,220101500021,Green Tea,Grocery,6,180.00,1080.00,650.00,430.00,0.3981,Shipped
+07-May-18,123100031,5031,Customer_5031,Consumer,North,Delhi,India,220101500002,Smart Watch,Electronics,2,3299.00,6598.00,5200.00,1398.00,0.2119,Shipped
+10-May-18,123100032,5032,Customer_5032,Corporate,West,Mumbai,India,220101500007,LED Lamp,Home,3,499.00,1497.00,1050.00,447.00,0.2986,Pending
+14-May-18,123100033,5033,Customer_5033,Home Office,South,Bengaluru,India,220101500012,Backpack,Fashion,1,1299.00,1299.00,900.00,399.00,0.3072,Shipped
+17-May-18,123100034,5034,Customer_5034,Consumer,East,Kolkata,India,220101500017,Perfume,Beauty,2,899.00,1798.00,1200.00,598.00,0.3326,Shipped
+21-May-18,123100035,5035,Customer_5035,Consumer,Central,Nagpur,India,220101500022,Dry Fruits,Grocery,3,350.00,1050.00,720.00,330.00,0.3143,Shipped
+24-May-18,123100036,5036,Customer_5036,Corporate,North,Delhi,India,220101500003,Bluetooth Speaker,Electronics,1,2199.00,2199.00,1700.00,499.00,0.2269,Shipped
+28-May-18,123100037,5037,Customer_5037,Home Office,West,Mumbai,India,220101500008,Storage Box,Home,4,399.00,1596.00,960.00,636.00,0.3985,Cancelled
+31-May-18,123100038,5038,Customer_5038,Consumer,South,Bengaluru,India,220101500013,Jacket,Fashion,2,2499.00,4998.00,3600.00,1398.00,0.2797,Shipped
+04-Jun-18,123100039,5039,Customer_5039,Corporate,East,Kolkata,India,220101500018,Lipstick,Beauty,7,499.00,3493.00,2100.00,1393.00,0.3988,Shipped
+08-Jun-18,123100040,5040,Customer_5040,Consumer,Central,Nagpur,India,220101500023,Protein Bar,Grocery,9,120.00,1080.00,720.00,360.00,0.3333,Shipped
+12-Jun-18,123100041,5041,Customer_5041,Consumer,North,Delhi,India,220101500004,Power Bank,Electronics,2,1499.00,2998.00,2100.00,898.00,0.2995,Shipped
+15-Jun-18,123100042,5042,Customer_5042,Corporate,West,Mumbai,India,220101500009,Vacuum Flask,Home,3,699.00,2097.00,1410.00,687.00,0.3276,Shipped
+19-Jun-18,123100043,5043,Customer_5043,Home Office,South,Bengaluru,India,220101500014,T-Shirt,Fashion,4,799.00,3196.00,2000.00,1196.00,0.3742,Shipped
+22-Jun-18,123100044,5044,Customer_5044,Consumer,East,Kolkata,India,220101500019,Hair Dryer,Beauty,1,1899.00,1899.00,1375.00,524.00,0.2759,Pending
+26-Jun-18,123100045,5045,Customer_5045,Consumer,Central,Nagpur,India,220101500024,Coffee Jar,Grocery,6,240.00,1440.00,960.00,480.00,0.3333,Shipped
+29-Jun-18,123100046,5046,Customer_5046,Corporate,North,Delhi,India,220101500005,USB Cable,Electronics,10,199.00,1990.00,1400.00,590.00,0.2965,Shipped
+03-Jul-18,123100047,5047,Customer_5047,Home Office,West,Mumbai,India,220101500010,Wall Clock,Home,2,1099.00,2198.00,1560.00,638.00,0.2903,Cancelled
+06-Jul-18,123100048,5048,Customer_5048,Consumer,South,Bengaluru,India,220101500015,Jeans,Fashion,2,1799.00,3598.00,2730.00,868.00,0.2412,Shipped
+10-Jul-18,123100049,5049,Customer_5049,Corporate,East,Kolkata,India,220101500020,Shampoo,Beauty,8,249.00,1992.00,1240.00,752.00,0.3775,Shipped
+13-Jul-18,123100050,5050,Customer_5050,Consumer,Central,Nagpur,India,220101500025,Biscuits,Grocery,12,60.00,720.00,432.00,288.00,0.4000,Shipped
+17-Jul-18,123100051,5051,Customer_5051,Consumer,North,Delhi,India,220101500001,Wireless Earbuds,Electronics,3,149.00,447.00,330.00,117.00,0.2617,Shipped
+20-Jul-18,123100052,5052,Customer_5052,Corporate,West,Mumbai,India,220101500006,Mixer Grinder,Home,1,2499.00,2499.00,1950.00,549.00,0.2197,Shipped
+24-Jul-18,123100053,5053,Customer_5053,Home Office,South,Bengaluru,India,220101500011,Running Shoes,Fashion,2,1899.00,3798.00,2800.00,998.00,0.2628,Shipped
+27-Jul-18,123100054,5054,Customer_5054,Consumer,East,Kolkata,India,220101500016,Face Wash,Beauty,6,299.00,1794.00,1140.00,654.00,0.3645,Pending
+31-Jul-18,123100055,5055,Customer_5055,Consumer,Central,Nagpur,India,220101500021,Green Tea,Grocery,7,180.00,1260.00,756.00,504.00,0.4000,Shipped
+03-Aug-18,123100056,5056,Customer_5056,Corporate,North,Delhi,India,220101500002,Smart Watch,Electronics,1,3299.00,3299.00,2600.00,699.00,0.2119,Shipped
+07-Aug-18,123100057,5057,Customer_5057,Home Office,West,Mumbai,India,220101500007,LED Lamp,Home,5,499.00,2495.00,1750.00,745.00,0.2986,Cancelled
+10-Aug-18,123100058,5058,Customer_5058,Consumer,South,Bengaluru,India,220101500012,Backpack,Fashion,3,1299.00,3897.00,2700.00,1197.00,0.3072,Shipped
+14-Aug-18,123100059,5059,Customer_5059,Corporate,East,Kolkata,India,220101500017,Perfume,Beauty,4,899.00,3596.00,2400.00,1196.00,0.3326,Shipped
+17-Aug-18,123100060,5060,Customer_5060,Consumer,Central,Nagpur,India,220101500022,Dry Fruits,Grocery,5,350.00,1750.00,1200.00,550.00,0.3143,Shipped
+21-Aug-18,123100061,5061,Customer_5061,Consumer,North,Delhi,India,220101500003,Bluetooth Speaker,Electronics,2,2199.00,4398.00,3400.00,998.00,0.2269,Shipped
+24-Aug-18,123100062,5062,Customer_5062,Corporate,West,Mumbai,India,220101500008,Storage Box,Home,6,399.00,2394.00,1440.00,954.00,0.3985,Shipped
+28-Aug-18,123100063,5063,Customer_5063,Home Office,South,Bengaluru,India,220101500013,Jacket,Fashion,1,2499.00,2499.00,1800.00,699.00,0.2797,Shipped
+31-Aug-18,123100064,5064,Customer_5064,Consumer,East,Kolkata,India,220101500018,Lipstick,Beauty,5,499.00,2495.00,1500.00,995.00,0.3988,Shipped
+04-Sep-18,123100065,5065,Customer_5065,Consumer,Central,Nagpur,India,220101500023,Protein Bar,Grocery,10,120.00,1200.00,800.00,400.00,0.3333,Shipped
+07-Sep-18,123100066,5066,Customer_5066,Corporate,North,Delhi,India,220101500004,Power Bank,Electronics,2,1499.00,2998.00,2100.00,898.00,0.2995,Pending
+11-Sep-18,123100067,5067,Customer_5067,Home Office,West,Mumbai,India,220101500009,Vacuum Flask,Home,4,699.00,2796.00,1880.00,916.00,0.3276,Shipped
+14-Sep-18,123100068,5068,Customer_5068,Consumer,South,Bengaluru,India,220101500014,T-Shirt,Fashion,6,799.00,4794.00,3000.00,1794.00,0.3742,Shipped
+18-Sep-18,123100069,5069,Customer_5069,Corporate,East,Kolkata,India,220101500019,Hair Dryer,Beauty,2,1899.00,3798.00,2750.00,1048.00,0.2759,Shipped
+21-Sep-18,123100070,5070,Customer_5070,Consumer,Central,Nagpur,India,220101500024,Coffee Jar,Grocery,8,240.00,1920.00,1280.00,640.00,0.3333,Shipped
+25-Sep-18,123100071,5071,Customer_5071,Consumer,North,Delhi,India,220101500005,USB Cable,Electronics,12,199.00,2388.00,1680.00,708.00,0.2965,Shipped
+28-Sep-18,123100072,5072,Customer_5072,Corporate,West,Mumbai,India,220101500010,Wall Clock,Home,3,1099.00,3297.00,2340.00,957.00,0.2903,Shipped
+02-Oct-18,123100073,5073,Customer_5073,Home Office,South,Bengaluru,India,220101500015,Jeans,Fashion,4,1799.00,7196.00,5460.00,1736.00,0.2412,Shipped
+05-Oct-18,123100074,5074,Customer_5074,Consumer,East,Kolkata,India,220101500020,Shampoo,Beauty,9,249.00,2241.00,1395.00,846.00,0.3775,Cancelled
+09-Oct-18,123100075,5075,Customer_5075,Consumer,Central,Nagpur,India,220101500025,Biscuits,Grocery,15,60.00,900.00,540.00,360.00,0.4000,Shipped
+12-Oct-18,123100076,5076,Customer_5076,Corporate,North,Delhi,India,220101500001,Wireless Earbuds,Electronics,5,149.00,745.00,550.00,195.00,0.2617,Shipped
+16-Oct-18,123100077,5077,Customer_5077,Home Office,West,Mumbai,India,220101500006,Mixer Grinder,Home,2,2499.00,4998.00,3900.00,1098.00,0.2197,Shipped
+19-Oct-18,123100078,5078,Customer_5078,Consumer,South,Bengaluru,India,220101500011,Running Shoes,Fashion,3,1899.00,5697.00,4200.00,1497.00,0.2628,Shipped
+23-Oct-18,123100079,5079,Customer_5079,Corporate,East,Kolkata,India,220101500016,Face Wash,Beauty,7,299.00,2093.00,1330.00,763.00,0.3645,Shipped
+26-Oct-18,123100080,5080,Customer_5080,Consumer,Central,Nagpur,India,220101500021,Green Tea,Grocery,9,180.00,1620.00,972.00,648.00,0.4000,Shipped
