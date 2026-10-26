@@ -115,6 +115,5 @@ For the interactive dashboard, launch Jupyter Notebook and run the dashboard not
 This project is intended for educational and analytical purposes. Its outputs illustrate data analysis and machine learning techniques and should not be treated as verified business forecasts without further validation.
 
 ## Author(s)
-**Aditya Naveen Sharma**
-**Sushant Suhas Bhase**
-GitHub: [GildedDreams]((https://github.com/GildedDreams/))
+-**Aditya Naveen Sharma**
+-**Sushant Suhas Bhase**
